@@ -1,2 +1,6 @@
 name: Hailey
 Facility: USC
+
+Friend
+Name: Gabriel
+Facility: NU
